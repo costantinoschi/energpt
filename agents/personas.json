@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Eco Warrior",
+        "pv_kw": 12,
+        "battery_kwh": 20
+    },
+    {
+        "name": "Crypto Bro",
+        "pv_kw": 8,
+        "battery_kwh": 27
+    },
+    {
+        "name": "Cheapskate Karen",
+        "pv_kw": 5,
+        "battery_kwh": 10
+    },
+    {
+        "name": "Tesla Fanboy",
+        "pv_kw": 15,
+        "battery_kwh": 40
+    },
+    {
+        "name": "Solar Punk",
+        "pv_kw": 18,
+        "battery_kwh": 15
+    },
+    {
+        "name": "Off-Grid Prepper",
+        "pv_kw": 7,
+        "battery_kwh": 50
+    },
+    {
+        "name": "Green Villa",
+        "pv_kw": 25,
+        "battery_kwh": 30
+    },
+    {
+        "name": "Night Owl Gamer",
+        "pv_kw": 4,
+        "battery_kwh": 13.5
+    },
+    {
+        "name": "HODL House",
+        "pv_kw": 6,
+        "battery_kwh": 13.5
+    },
+    {
+        "name": "Minimalist Monk",
+        "pv_kw": 3,
+        "battery_kwh": 5
+    },
+    {
+        "name": "Solar Mom",
+        "pv_kw": 10,
+        "battery_kwh": 15
+    },
+    {
+        "name": "Energy Influencer",
+        "pv_kw": 14,
+        "battery_kwh": 20
+    },
+    {
+        "name": "Grid Hater",
+        "pv_kw": 9,
+        "battery_kwh": 25
+    },
+    {
+        "name": "Bitcoin Miner",
+        "pv_kw": 20,
+        "battery_kwh": 40
+    },
+    {
+        "name": "Tree Hugger",
+        "pv_kw": 11,
+        "battery_kwh": 18
+    },
+    {
+        "name": "Deal Hunter",
+        "pv_kw": 6,
+        "battery_kwh": 12
+    },
+    {
+        "name": "Roof Rich",
+        "pv_kw": 30,
+        "battery_kwh": 50
+    },
+    {
+        "name": "Early Adopter",
+        "pv_kw": 16,
+        "battery_kwh": 25
+    },
+    {
+        "name": "Battery Baron",
+        "pv_kw": 8,
+        "battery_kwh": 60
+    },
+    {
+        "name": "Sun Worshipper",
+        "pv_kw": 22,
+        "battery_kwh": 20
+    }
+]
