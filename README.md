@@ -1,6 +1,6 @@
 # ⚡ EnerGPT — Decentralized Energy Trading with Autonomous AI Agents
 
-https://github.com/user/energpt/assets/123456789/energpt-demo.gif
+![EnerGPT Demo](https://i.imgur.com/9b8Y5kM.gif)
 
 > 20 autonomous AI agents (powered by Claude 3.5 Sonnet)  
 > Each runs a real household with solar panels + battery  
